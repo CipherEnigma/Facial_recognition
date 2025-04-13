@@ -15,6 +15,6 @@ This project implements a facial recognition system using eigenfaces and PCA in 
 ## Setup and Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/facial_recognition_eigenfaces.git
-   cd facial_recognition_eigenfaces
+   git clone https://github.com/yourusername/facial_recognition.git
+   cd facial_recognition
 
